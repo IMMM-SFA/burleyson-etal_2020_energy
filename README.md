@@ -2,9 +2,9 @@
 >
 __Future Western U.S. Building Electricity Consumption in Response to Climate and Population Drivers: A Comparative Study of the Impact of Model Structure__
 >
-*Casey D. Burleyson<sup>1 \*</sup>, Gokul Iyer<sup>1</sup>, Mohamad Hejazi<sup>1</sup>, Sonny Kim<sup>1</sup>, Page Kyle<sup>1</sup>, Jennie S. Rice<sup>1</sup>, Amanda D. Smith<sup>1</sup>, Todd Taylor<sup>1</sup>, Nathalie Voisin<sup>1</sup>, YuLong Xie<sup>1</sup>* 
+*Casey D. Burleyson<sup> 1\*</sup>, Gokul Iyer<sup> 1</sup>, Mohamad Hejazi<sup> 1</sup>, Sonny Kim<sup> 1</sup>, Page Kyle<sup> 1</sup>, Jennie S. Rice<sup> 1</sup>, Amanda D. Smith<sup> 1</sup>, Todd Taylor<sup> 1</sup>, Nathalie Voisin<sup> 1</sup>, YuLong Xie<sup> 1</sup>* 
 >
-<sup>1</sup> Pacific Northwest National Laboratory, Richland, WA  
+<sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA  
 \* corresponding author: casey.burleyson@pnnl.gov
 >
 ## Abstract
