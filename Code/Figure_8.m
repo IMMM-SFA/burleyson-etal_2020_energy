@@ -1,4 +1,4 @@
-% Figure_3.m: GCAM Total Maps
+% Figure_8.m: GCAM Total Maps
 % 20200623
 % Casey D. Burleyson
 % Pacific Northwest National Laboratory
@@ -11,7 +11,7 @@ warning off all; clear all; close all;
 % Set some processing flags:
 process_data = 1; % (1 = Yes)
 gcam_run = 3; % (1 = raw, 2 = fixed service demands, 3 = controlled electricity prices)
-save_images = 0; % (1 = Yes)
+save_images = 1; % (1 = Yes)
 
 % Set the data input and output directories:
 data_input_dir = '/Users/burl878/OneDrive - PNNL/Desktop/BEND_GCAM_Paper_Data/Data/GCAM_Runs/';
@@ -239,7 +239,7 @@ set(gca,'LineWidth',3,'FontSize',21,'Box','on','Layer','top');
 
 if save_images == 1
    set(gcf,'Renderer','zbuffer'); set(gcf,'PaperPositionMode','auto');
-   print(a,'-dpng','-r300',[image_output_dir,'Figure_8.png']);
+   print(a,'-dpng','-r600',[image_output_dir,'Figure_8.png']);
    close(a);
 end
 clear a ax1 ax2 ax3 ax4 ax5 i row colo faceColors states States
