@@ -4,7 +4,7 @@ __Future Western U.S. Building Electricity Consumption in Response to Climate an
 >
 *Casey D. Burleyson<sup>1 \*</sup>, Gokul Iyer<sup>1</sup>, Mohamad Hejazi<sup>1</sup>, Sonny Kim<sup>1</sup>, Page Kyle<sup>1</sup>, Jennie S. Rice<sup>1</sup>, Amanda D. Smith<sup>1</sup>, Todd Taylor<sup>1</sup>, Nathalie Voisin<sup>1</sup>, YuLong Xie<sup>1</sup>* 
 >
-1 Pacific Northwest National Laboratory, Richland, WA  
+<sup>1</sup> Pacific Northwest National Laboratory, Richland, WA  
 \* corresponding author: casey.burleyson@pnnl.gov
 >
 ## Abstract
@@ -14,14 +14,14 @@ Projections of building electricity consumption are used in multiple fields and 
 To do
 >
 ## Journal reference
-To do
+Burleyson, C. D., G. C. Iyer, M. I. Hejazi, S. Kim, P. Kyle, J. S. Rice, A. D. Smith, Z. T. Taylor, N. Voisin, and Y. Xie, 2020: Future western U.S. building electricity consumption in response to climate and population drivers: A comparative study of the impact of model structure. In revision in Energy - June 2020.
 >
 ## Data reference
 >
-Nathalie Voisin, Ana Dyreson, Tao Fu, Matt O'Connell, Sean Turner, Tian Zhou, Jordan Macknick (2020). PLEXOS Inputs for Voisin et al. 2020 [Data set]. DOI to be minted after acceptance.
+Casey Burleyson, Gokul Iyer, Mohamad Hejazi, Sonny Kim, Page Kyle, Jennie Rice, Amanda Smith, Todd Taylor, Nathalie Voisin, YuLong Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. DOI to be minted after acceptance.
 >
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| <model 1> | <version> | <link to code repository> | <link to DOI dataset> |
-| <model 2> | <version> | <link to code repository> | <link to DOI dataset> |
+| <GCAM-USA> | <version> | <link to code repository> | <link to DOI dataset> |
+| <BEND> | <V0> | https://github.com/IMMM-SFA/BEND-V0 | <link to DOI dataset> |
