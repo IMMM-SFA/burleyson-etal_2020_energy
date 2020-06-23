@@ -23,5 +23,5 @@ Casey Burleyson, Gokul Iyer, Mohamad Hejazi, Sonny Kim, Page Kyle, Jennie Rice, 
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| <GCAM-USA> | <version> | <link to code repository> | <link to DOI dataset> |
-| <BEND> | <V0> | https://github.com/IMMM-SFA/BEND-V0 | <link to DOI dataset> |
+| GCAM-USA | <version> | <link to code repository> | <link to DOI dataset> |
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0 | <link to DOI dataset> |
