@@ -2,7 +2,7 @@
 >
 __Future Western U.S. Building Electricity Consumption in Response to Climate and Population Drivers: A Comparative Study of the Impact of Model Structure__
 >
-Casey D. Burleyson<sup> 1\*</sup>, Gokul Iyer<sup> 1</sup>, Mohamad Hejazi<sup> 1</sup>, Sonny Kim<sup> 1</sup>, Page Kyle<sup> 1</sup>, Jennie S. Rice<sup> 1</sup>, Amanda D. Smith<sup> 1</sup>, Todd Taylor<sup> 1</sup>, Nathalie Voisin<sup> 1</sup>, YuLong Xie<sup> 1</sup>
+Casey D. Burleyson<sup> 1\*</sup>, Gokul C. Iyer<sup> 1</sup>, Mohamad I. Hejazi<sup> 1</sup>, Sonny Kim<sup> 1</sup>, Page Kyle<sup> 1</sup>, Jennie S. Rice<sup> 1</sup>, Amanda D. Smith<sup> 1</sup>, Z. Todd Taylor<sup> 1</sup>, Nathalie Voisin<sup> 1</sup>, YuLong Xie<sup> 1</sup>
 >
 <sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA  
 \* corresponding author: casey.burleyson@pnnl.gov
@@ -23,7 +23,7 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM-USA | <version> | <link to code repository> | <link to DOI dataset> |
-| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> | <link to DOI dataset> |
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> | N/A |
 
 <sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
 
