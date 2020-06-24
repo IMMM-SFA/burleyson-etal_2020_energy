@@ -14,7 +14,7 @@ Projections of building electricity consumption are used in multiple fields and 
 Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie, 2020: Future western U.S. building electricity consumption in response to climate and population drivers: A comparative study of the impact of model structure. In revision in *Energy* - June 2020.
 >
 ## Code reference
-Pending final release.
+The full reference for this meta repository will be updated once it is finalized: https://github.com/IMMM-SFA/burleyson-etal_2020_energy
 >
 ## Data reference
 Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. DataHub. https://doi.org/10.25584/data.2020-06.1320/1634287
@@ -23,7 +23,7 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM-USA | <version> | <link to code repository> | <link to DOI dataset> |
-| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup>*</sup> | <link to DOI dataset> |
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> | <link to DOI dataset> |
 
 <sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
 
