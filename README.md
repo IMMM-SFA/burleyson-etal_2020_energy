@@ -23,7 +23,7 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM-USA | <version> | <link to code repository> | <link to DOI dataset> |
-| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> 1\*</sup> | <link to DOI dataset> |
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup>*</sup> | <link to DOI dataset> |
 
-<sup>* </sup> The BEND model is undergoing a major revision. The version of the model used in this publication is available upon request.
+<sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
 
