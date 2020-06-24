@@ -18,7 +18,7 @@ To do
 >
 ## Data reference
 >
-Casey Burleyson, Gokul Iyer, Mohamad Hejazi, Sonny Kim, Page Kyle, Jennie Rice, Amanda Smith, Todd Taylor, Nathalie Voisin, YuLong Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. DOI to be minted after acceptance.
+Casey Burleyson, Gokul Iyer, Mohamad Hejazi, Sonny Kim, Page Kyle, Jennie Rice, Amanda Smith, Todd Taylor, Nathalie Voisin, YuLong Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. 10.25584/data.2020-06.1320/1634287
 >
 ## Contributing models
 | Model | Version | Repository Link | DOI |
