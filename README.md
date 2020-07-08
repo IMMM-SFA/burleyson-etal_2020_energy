@@ -22,8 +22,10 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| GCAM-USA | <version> | <link to code repository> | <link to DOI dataset> |
-| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> | N/A |
+| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend 1</sup> | 
+| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend-cal2005 2</sup> | 
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> |
 
+<sup>1</sup> GCAM-USA projection simulations
+<sup>2</sup> GCAM-USA historical calibration simulations
 <sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
-
