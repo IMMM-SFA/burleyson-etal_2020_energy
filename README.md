@@ -20,12 +20,15 @@ The full reference for this meta repository will be updated once it is finalized
 Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. DataHub. https://doi.org/10.25584/data.2020-06.1320/1634287
 >
 ## Contributing models
-| Model | Version | Repository Link | DOI |
-|-------|---------|-----------------|-----|
-| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend 1</sup> | 
-| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend-cal2005 2</sup> | 
-| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0<sup> *</sup> |
+| Model | Version | Repository Link |
+|-------|---------|-----------------|
+| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend <sup> 1</sup> | 
+| GCAM-USA | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend-cal2005 <sup> 2</sup> | 
+| BEND | V0 | https://github.com/IMMM-SFA/BEND-V0 <sup> *</sup> |
 
+>
 <sup>1</sup> GCAM-USA projection simulations
+>
 <sup>2</sup> GCAM-USA historical calibration simulations
+>
 <sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
