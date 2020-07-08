@@ -22,9 +22,9 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 ## Contributing models
 | Model | Version | Repository Link |
 |-------|---------|-----------------|
-| GCAM-USA <sup> 1</sup> | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend | 
-| GCAM-USA <sup> 2</sup> | <version> | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend-cal2005 | 
-| BEND <sup> *</sup> | V0 | https://github.com/IMMM-SFA/BEND-V0 |
+| GCAM-USA <sup> 1</sup> | v5.0 | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend | 
+| GCAM-USA <sup> 2</sup> | v5.0 | https://github.com/pkyle/gcam-core/tree/gpk/paper/gcam-usa-bend-cal2005 | 
+| BEND <sup> *</sup> | v0 | https://github.com/IMMM-SFA/BEND-V0 |
 >
 <sup>1</sup> GCAM-USA projection simulations
 >
