@@ -27,5 +27,7 @@ Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith,
 | BEND <sup> *</sup> | V0 | https://github.com/IMMM-SFA/BEND-V0 |
 >
 <sup>1</sup> GCAM-USA projection simulations
+>
 <sup>2</sup> GCAM-USA historical calibration simulations
+>
 <sup>*</sup> The BEND model is currently undergoing a major revision. The version of the model used in this publication has been archived and is available upon request.
