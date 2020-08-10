@@ -1,6 +1,5 @@
 [![DOI](https://zenodo.org/badge/274448836.svg)](https://zenodo.org/badge/latestdoi/274448836)
 
-
 ## burleyson-etal_2020_energy
 >
 __Future Western U.S. Building Electricity Consumption in Response to Climate and Population Drivers: A Comparative Study of the Impact of Model Structure__
