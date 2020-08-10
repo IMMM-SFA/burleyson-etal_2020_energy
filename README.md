@@ -14,7 +14,7 @@ Projections of building electricity consumption are used in multiple fields and 
 Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie, 2020: Future western U.S. building electricity consumption in response to climate and population drivers: A comparative study of the impact of model structure. *Energy*, **208**, 118312, https://doi.org/10.1016/j.energy.2020.118312.
 >
 ## Code reference
-Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie (2020). Supporting code for Burleyson et al. 2020 [Code]. Zenodo. https://doi.org/10.5281/zenodo.3978578
+Burleyson, C.D., and P. Kyle (2020). Supporting code for Burleyson et al. 2020 [Code]. Zenodo. https://doi.org/10.5281/zenodo.3978578
 >
 ## Data reference
 Burleyson, C.D., G.C. Iyer, M.I. Hejazi, S. Kim, P. Kyle, J.S. Rice, A.D. Smith, Z.T. Taylor, N. Voisin, and Y. Xie (2020). Supporting data for Burleyson et al. 2020 [Data set]. DataHub. https://doi.org/10.25584/data.2020-06.1320/1634287
